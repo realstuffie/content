@@ -64,3 +64,4 @@ template:
         pkgname@debian13: xserver-common
         pkgname@ubuntu2204: xserver-common
         pkgname@ubuntu2404: xserver-common
+        pkgname@ubuntu2604: xserver-common
